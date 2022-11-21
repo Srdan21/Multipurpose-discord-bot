@@ -1,8 +1,8 @@
 {
-    "token": "GET from: https://discord.com/developers/applications",
+    "token": "MTA0MTQ3NjQxODQ2ODU4OTU5OQ.G6v9de.qcCM4V9wxRIHAdrezmTgbeFDuYza4SHWjirda0",
     "prefix": "//",
     "ownerIDS": [
-        "442355791412854784"
+        ""
     ],
     "fnbr": "GET from: https://fnbr.co",
     "fortnitetracker": "GET from: https://fortnitetracker.com",
@@ -18,7 +18,7 @@
             {
                 "host": "localhost",
                 "port": 2333,
-                "password": "youshallnotpass"
+                "password": ""
             }
         ]
     },
